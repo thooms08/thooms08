@@ -1,26 +1,128 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Web Developer & Founder of Libix Technology, building scalable web apps and impactful digital solutions.</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thooms08&label=Profile%20views&color=0e75b6&style=flat" alt="thooms08" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00F5FF&height=200&section=header&text=THOMAS&fontSize=65&fontColor=00F5FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%2F%2F%20TECH%20FOUNDER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
-- 🔭 I'm currently working on [LIBIX TECHNOLOGY PRODUCT](https://libix.tech/)
+<a href="https://libix.tech/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Initializing+Thomas.exe...;Building+Digital+Experiences;Founder+%40+Libix+Technology;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://thomaslefvibaehaqi.my.id/](https://thomaslefvibaehaqi.my.id/)
+<br/>
 
-- 📫 How to reach me **thomaslevibaehaqi@gmail.com**
+`[ WEB DEVELOPER ]` ` [ FOUNDER ]` ` [ CREATIVE THINKER ]`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomaslb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomaslb08" height="30" width="40" /></a>
-<a href="https://fb.com/thomas.lb.355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thomas.lb.355" height="30" width="40" /></a>
-<a href="https://instagram.com/thomas_lb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas_lb08" height="30" width="40" /></a>
+<br/>
+
+<a href="https://libix.tech/"><img src="https://img.shields.io/badge/LIBIX_TECHNOLOGY-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
+<a href="https://thomaslefvibaehaqi.my.id/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0F1F?style=for-the-badge&logo=firefoxbrowser&logoColor=BD93F9" /></a>
+<a href="mailto:thomaslevibaehaqi@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0A0F1F?style=for-the-badge&logo=gmail&logoColor=FF5370" /></a>
+
+</div>
+
+---
+
+## `> WHOAMI`
+
+```yaml
+name: Thomas
+role: Web Developer & Founder
+company: Libix Technology
+mission: Turning ideas into useful digital solutions
+focus:
+  - Full-stack Web Development
+  - Software & Product Engineering
+  - AI-powered Solutions
+  - Startup & Product Development
+status: Building what's next...
+```
+
+I'm a developer and technology founder passionate about building digital products that solve real problems. I enjoy turning ideas into functional applications, experimenting with new technologies, and creating solutions that bring value to businesses.
+
+Currently building products and exploring new possibilities at **[Libix Technology](https://libix.tech/)**.
+
+## `> CURRENT_OPERATIONS`
+
+<table>
+<tr>
+<td width="50%">
+
+### `01 / BUILD`
+
+**Libix Technology**
+
+Developing digital products, web applications, and technology solutions for real-world problems.
+
+[Explore Libix →](https://libix.tech/)
+
+</td>
+<td width="50%">
+
+### `02 / CREATE`
+
+**Personal Projects**
+
+Experimenting with new ideas, improving my engineering skills, and turning concepts into working products.
+
+[View Portfolio →](https://thomaslefvibaehaqi.my.id/)
+
+</td>
+</tr>
+</table>
+
+## `> TECH_STACK`
+
+**// Languages & Core**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,go,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**// Frameworks & Development**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thooms08&show_icons=true&locale=en&layout=compact" alt="thooms08" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,svelte,bootstrap,tailwind,flutter,nodejs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thooms08&show_icons=true&locale=en" alt="thooms08" /></p>
+**// Database & Infrastructure**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thooms08&" alt="thooms08" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,nginx,linux,git,github" />
+</p>
+
+**// Tools & Design**
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,vercel" />
+</p>
+
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thooms08&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD93F9&text_color=C9D1D9&ring_color=00F5FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thooms08&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=thooms08&hide_border=true&background=0D1117&ring=00F5FF&fire=FF5370&currStreakLabel=00F5FF&sideLabels=BD93F9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=777777" />
+
+</div>
+
+## `> CONNECT_TO_NETWORK`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/thomaslb08"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="https://instagram.com/thomas_lb08"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=BD93F9" /></a>
+<a href="https://fb.com/thomas.lb.355"><img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&logo=facebook&logoColor=00F5FF" /></a>
+<a href="mailto:thomaslevibaehaqi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5370" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thooms08&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+<sub>「 Build with purpose. Create without limits. 」</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:111827,100:050816&height=100&section=footer" width="100%" />
+
+</div>
