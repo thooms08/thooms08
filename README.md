@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F5FF&height=160&section=header&text=THOMAS&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F5FF&height=160&section=header&text=THOMAS+LEFVI+BAEHAQI&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Web+Developer;Founder+of+Libix+Technology;Building+Digital+Solutions" />
 
