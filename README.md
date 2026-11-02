@@ -10,7 +10,7 @@
 
 ### `> About Me`
 
-Web Developer & Founder of **[Libix Technology](https://libix.tech/)**. Passionate about building useful digital products, scalable web applications, and innovative technology solutions.
+Web Developer & Founder of **[LIBIX](https://libix.tech/)**. Passionate about building useful digital products, scalable web applications, and innovative technology solutions.
 
 ### `> Tech Stack`
 
